@@ -1,3 +1,8 @@
+*.xml
+
+config
+customer
+
 # Logs
 logs
 *.log
